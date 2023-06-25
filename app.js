@@ -4,7 +4,7 @@ const search = () =>{
     const pokemon = document.querySelectorAll(".Pokemon")
     const pokemonName = pokemonItems.getElementsByTagName("h2")
 
-    for(var i=0; i<pokemonName.length; i++){
+    for(let i=0; i<pokemonName.length; i++){
         let match = pokemon[i].getElementsByTagName('h2')[0];
 
         if(match){
