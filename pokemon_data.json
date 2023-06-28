@@ -1,0 +1,4047 @@
+{
+    "bulbasaur": {
+        "Name": "bulbasaur",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "ivysaur": {
+        "Name": "ivysaur",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "venusaur": {
+        "Name": "venusaur",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "charmander": {
+        "Name": "charmander",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "charmeleon": {
+        "Name": "charmeleon",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "charizard": {
+        "Name": "charizard",
+        "Type1": "Fire",
+        "Type2": "Flying"
+    },
+    "squirtle": {
+        "Name": "squirtle",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "wartortle": {
+        "Name": "wartortle",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "blastoise": {
+        "Name": "blastoise",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "caterpie": {
+        "Name": "caterpie",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "metapod": {
+        "Name": "metapod",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "butterfree": {
+        "Name": "butterfree",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "weedle": {
+        "Name": "weedle",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "kakuna": {
+        "Name": "kakuna",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "beedrill": {
+        "Name": "beedrill",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "pidgey": {
+        "Name": "pidgey",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "pidgeotto": {
+        "Name": "pidgeotto",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "pidgeot": {
+        "Name": "pidgeot",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "rattata": {
+        "Name": "rattata",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "raticate": {
+        "Name": "raticate",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "spearow": {
+        "Name": "spearow",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "fearow": {
+        "Name": "fearow",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "ekans": {
+        "Name": "ekans",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "arbok": {
+        "Name": "arbok",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "pikachu": {
+        "Name": "pikachu",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "raichu": {
+        "Name": "raichu",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "sandshrew": {
+        "Name": "sandshrew",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "sandslash": {
+        "Name": "sandslash",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "nidoran-f": {
+        "Name": "nidoran-f",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "nidorina": {
+        "Name": "nidorina",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "nidoqueen": {
+        "Name": "nidoqueen",
+        "Type1": "Poison",
+        "Type2": "Ground"
+    },
+    "nidoran-m": {
+        "Name": "nidoran-m",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "nidorino": {
+        "Name": "nidorino",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "nidoking": {
+        "Name": "nidoking",
+        "Type1": "Poison",
+        "Type2": "Ground"
+    },
+    "clefairy": {
+        "Name": "clefairy",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "clefable": {
+        "Name": "clefable",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "vulpix": {
+        "Name": "vulpix",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "ninetales": {
+        "Name": "ninetales",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "jigglypuff": {
+        "Name": "jigglypuff",
+        "Type1": "Normal",
+        "Type2": "Fairy"
+    },
+    "wigglytuff": {
+        "Name": "wigglytuff",
+        "Type1": "Normal",
+        "Type2": "Fairy"
+    },
+    "zubat": {
+        "Name": "zubat",
+        "Type1": "Poison",
+        "Type2": "Flying"
+    },
+    "golbat": {
+        "Name": "golbat",
+        "Type1": "Poison",
+        "Type2": "Flying"
+    },
+    "oddish": {
+        "Name": "oddish",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "gloom": {
+        "Name": "gloom",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "vileplume": {
+        "Name": "vileplume",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "paras": {
+        "Name": "paras",
+        "Type1": "Bug",
+        "Type2": "Grass"
+    },
+    "parasect": {
+        "Name": "parasect",
+        "Type1": "Bug",
+        "Type2": "Grass"
+    },
+    "venonat": {
+        "Name": "venonat",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "venomoth": {
+        "Name": "venomoth",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "diglett": {
+        "Name": "diglett",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "dugtrio": {
+        "Name": "dugtrio",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "meowth": {
+        "Name": "meowth",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "persian": {
+        "Name": "persian",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "psyduck": {
+        "Name": "psyduck",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "golduck": {
+        "Name": "golduck",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "mankey": {
+        "Name": "mankey",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "primeape": {
+        "Name": "primeape",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "growlithe": {
+        "Name": "growlithe",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "arcanine": {
+        "Name": "arcanine",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "poliwag": {
+        "Name": "poliwag",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "poliwhirl": {
+        "Name": "poliwhirl",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "poliwrath": {
+        "Name": "poliwrath",
+        "Type1": "Water",
+        "Type2": "Fighting"
+    },
+    "abra": {
+        "Name": "abra",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "kadabra": {
+        "Name": "kadabra",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "alakazam": {
+        "Name": "alakazam",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "machop": {
+        "Name": "machop",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "machoke": {
+        "Name": "machoke",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "machamp": {
+        "Name": "machamp",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "bellsprout": {
+        "Name": "bellsprout",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "weepinbell": {
+        "Name": "weepinbell",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "victreebel": {
+        "Name": "victreebel",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "tentacool": {
+        "Name": "tentacool",
+        "Type1": "Water",
+        "Type2": "Poison"
+    },
+    "tentacruel": {
+        "Name": "tentacruel",
+        "Type1": "Water",
+        "Type2": "Poison"
+    },
+    "geodude": {
+        "Name": "geodude",
+        "Type1": "Rock",
+        "Type2": "Ground"
+    },
+    "graveler": {
+        "Name": "graveler",
+        "Type1": "Rock",
+        "Type2": "Ground"
+    },
+    "golem": {
+        "Name": "golem",
+        "Type1": "Rock",
+        "Type2": "Ground"
+    },
+    "ponyta": {
+        "Name": "ponyta",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "rapidash": {
+        "Name": "rapidash",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "slowpoke": {
+        "Name": "slowpoke",
+        "Type1": "Water",
+        "Type2": "Psychic"
+    },
+    "slowbro": {
+        "Name": "slowbro",
+        "Type1": "Water",
+        "Type2": "Psychic"
+    },
+    "magnemite": {
+        "Name": "magnemite",
+        "Type1": "Electric",
+        "Type2": "Steel"
+    },
+    "magneton": {
+        "Name": "magneton",
+        "Type1": "Electric",
+        "Type2": "Steel"
+    },
+    "farfetchd": {
+        "Name": "farfetchd",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "doduo": {
+        "Name": "doduo",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "dodrio": {
+        "Name": "dodrio",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "seel": {
+        "Name": "seel",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "dewgong": {
+        "Name": "dewgong",
+        "Type1": "Water",
+        "Type2": "Ice"
+    },
+    "grimer": {
+        "Name": "grimer",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "muk": {
+        "Name": "muk",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "shellder": {
+        "Name": "shellder",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "cloyster": {
+        "Name": "cloyster",
+        "Type1": "Water",
+        "Type2": "Ice"
+    },
+    "gastly": {
+        "Name": "gastly",
+        "Type1": "Ghost",
+        "Type2": "Poison"
+    },
+    "haunter": {
+        "Name": "haunter",
+        "Type1": "Ghost",
+        "Type2": "Poison"
+    },
+    "gengar": {
+        "Name": "gengar",
+        "Type1": "Ghost",
+        "Type2": "Poison"
+    },
+    "onix": {
+        "Name": "onix",
+        "Type1": "Rock",
+        "Type2": "Ground"
+    },
+    "drowzee": {
+        "Name": "drowzee",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "hypno": {
+        "Name": "hypno",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "krabby": {
+        "Name": "krabby",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "kingler": {
+        "Name": "kingler",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "voltorb": {
+        "Name": "voltorb",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "electrode": {
+        "Name": "electrode",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "exeggcute": {
+        "Name": "exeggcute",
+        "Type1": "Grass",
+        "Type2": "Psychic"
+    },
+    "exeggutor": {
+        "Name": "exeggutor",
+        "Type1": "Grass",
+        "Type2": "Psychic"
+    },
+    "cubone": {
+        "Name": "cubone",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "marowak": {
+        "Name": "marowak",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "hitmonlee": {
+        "Name": "hitmonlee",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "hitmonchan": {
+        "Name": "hitmonchan",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "lickitung": {
+        "Name": "lickitung",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "koffing": {
+        "Name": "koffing",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "weezing": {
+        "Name": "weezing",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "rhyhorn": {
+        "Name": "rhyhorn",
+        "Type1": "Ground",
+        "Type2": "Rock"
+    },
+    "rhydon": {
+        "Name": "rhydon",
+        "Type1": "Ground",
+        "Type2": "Rock"
+    },
+    "chansey": {
+        "Name": "chansey",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "tangela": {
+        "Name": "tangela",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "kangaskhan": {
+        "Name": "kangaskhan",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "horsea": {
+        "Name": "horsea",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "seadra": {
+        "Name": "seadra",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "goldeen": {
+        "Name": "goldeen",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "seaking": {
+        "Name": "seaking",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "staryu": {
+        "Name": "staryu",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "starmie": {
+        "Name": "starmie",
+        "Type1": "Water",
+        "Type2": "Psychic"
+    },
+    "mr-mime": {
+        "Name": "mr-mime",
+        "Type1": "Psychic",
+        "Type2": "Fairy"
+    },
+    "scyther": {
+        "Name": "scyther",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "jynx": {
+        "Name": "jynx",
+        "Type1": "Ice",
+        "Type2": "Psychic"
+    },
+    "electabuzz": {
+        "Name": "electabuzz",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "magmar": {
+        "Name": "magmar",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "pinsir": {
+        "Name": "pinsir",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "tauros": {
+        "Name": "tauros",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "magikarp": {
+        "Name": "magikarp",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "gyarados": {
+        "Name": "gyarados",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "lapras": {
+        "Name": "lapras",
+        "Type1": "Water",
+        "Type2": "Ice"
+    },
+    "ditto": {
+        "Name": "ditto",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "eevee": {
+        "Name": "eevee",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "vaporeon": {
+        "Name": "vaporeon",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "jolteon": {
+        "Name": "jolteon",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "flareon": {
+        "Name": "flareon",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "porygon": {
+        "Name": "porygon",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "omanyte": {
+        "Name": "omanyte",
+        "Type1": "Rock",
+        "Type2": "Water"
+    },
+    "omastar": {
+        "Name": "omastar",
+        "Type1": "Rock",
+        "Type2": "Water"
+    },
+    "kabuto": {
+        "Name": "kabuto",
+        "Type1": "Rock",
+        "Type2": "Water"
+    },
+    "kabutops": {
+        "Name": "kabutops",
+        "Type1": "Rock",
+        "Type2": "Water"
+    },
+    "aerodactyl": {
+        "Name": "aerodactyl",
+        "Type1": "Rock",
+        "Type2": "Flying"
+    },
+    "snorlax": {
+        "Name": "snorlax",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "articuno": {
+        "Name": "articuno",
+        "Type1": "Ice",
+        "Type2": "Flying"
+    },
+    "zapdos": {
+        "Name": "zapdos",
+        "Type1": "Electric",
+        "Type2": "Flying"
+    },
+    "moltres": {
+        "Name": "moltres",
+        "Type1": "Fire",
+        "Type2": "Flying"
+    },
+    "dratini": {
+        "Name": "dratini",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "dragonair": {
+        "Name": "dragonair",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "dragonite": {
+        "Name": "dragonite",
+        "Type1": "Dragon",
+        "Type2": "Flying"
+    },
+    "mewtwo": {
+        "Name": "mewtwo",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "mew": {
+        "Name": "mew",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "chikorita": {
+        "Name": "chikorita",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "bayleef": {
+        "Name": "bayleef",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "meganium": {
+        "Name": "meganium",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "cyndaquil": {
+        "Name": "cyndaquil",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "quilava": {
+        "Name": "quilava",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "typhlosion": {
+        "Name": "typhlosion",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "totodile": {
+        "Name": "totodile",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "croconaw": {
+        "Name": "croconaw",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "feraligatr": {
+        "Name": "feraligatr",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "sentret": {
+        "Name": "sentret",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "furret": {
+        "Name": "furret",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "hoothoot": {
+        "Name": "hoothoot",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "noctowl": {
+        "Name": "noctowl",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "ledyba": {
+        "Name": "ledyba",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "ledian": {
+        "Name": "ledian",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "spinarak": {
+        "Name": "spinarak",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "ariados": {
+        "Name": "ariados",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "crobat": {
+        "Name": "crobat",
+        "Type1": "Poison",
+        "Type2": "Flying"
+    },
+    "chinchou": {
+        "Name": "chinchou",
+        "Type1": "Water",
+        "Type2": "Electric"
+    },
+    "lanturn": {
+        "Name": "lanturn",
+        "Type1": "Water",
+        "Type2": "Electric"
+    },
+    "pichu": {
+        "Name": "pichu",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "cleffa": {
+        "Name": "cleffa",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "igglybuff": {
+        "Name": "igglybuff",
+        "Type1": "Normal",
+        "Type2": "Fairy"
+    },
+    "togepi": {
+        "Name": "togepi",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "togetic": {
+        "Name": "togetic",
+        "Type1": "Fairy",
+        "Type2": "Flying"
+    },
+    "natu": {
+        "Name": "natu",
+        "Type1": "Psychic",
+        "Type2": "Flying"
+    },
+    "xatu": {
+        "Name": "xatu",
+        "Type1": "Psychic",
+        "Type2": "Flying"
+    },
+    "mareep": {
+        "Name": "mareep",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "flaaffy": {
+        "Name": "flaaffy",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "ampharos": {
+        "Name": "ampharos",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "bellossom": {
+        "Name": "bellossom",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "marill": {
+        "Name": "marill",
+        "Type1": "Water",
+        "Type2": "Fairy"
+    },
+    "azumarill": {
+        "Name": "azumarill",
+        "Type1": "Water",
+        "Type2": "Fairy"
+    },
+    "sudowoodo": {
+        "Name": "sudowoodo",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "politoed": {
+        "Name": "politoed",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "hoppip": {
+        "Name": "hoppip",
+        "Type1": "Grass",
+        "Type2": "Flying"
+    },
+    "skiploom": {
+        "Name": "skiploom",
+        "Type1": "Grass",
+        "Type2": "Flying"
+    },
+    "jumpluff": {
+        "Name": "jumpluff",
+        "Type1": "Grass",
+        "Type2": "Flying"
+    },
+    "aipom": {
+        "Name": "aipom",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "sunkern": {
+        "Name": "sunkern",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "sunflora": {
+        "Name": "sunflora",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "yanma": {
+        "Name": "yanma",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "wooper": {
+        "Name": "wooper",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "quagsire": {
+        "Name": "quagsire",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "espeon": {
+        "Name": "espeon",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "umbreon": {
+        "Name": "umbreon",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "murkrow": {
+        "Name": "murkrow",
+        "Type1": "Dark",
+        "Type2": "Flying"
+    },
+    "slowking": {
+        "Name": "slowking",
+        "Type1": "Water",
+        "Type2": "Psychic"
+    },
+    "misdreavus": {
+        "Name": "misdreavus",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "unown": {
+        "Name": "unown",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "wobbuffet": {
+        "Name": "wobbuffet",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "girafarig": {
+        "Name": "girafarig",
+        "Type1": "Normal",
+        "Type2": "Psychic"
+    },
+    "pineco": {
+        "Name": "pineco",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "forretress": {
+        "Name": "forretress",
+        "Type1": "Bug",
+        "Type2": "Steel"
+    },
+    "dunsparce": {
+        "Name": "dunsparce",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "gligar": {
+        "Name": "gligar",
+        "Type1": "Ground",
+        "Type2": "Flying"
+    },
+    "steelix": {
+        "Name": "steelix",
+        "Type1": "Steel",
+        "Type2": "Ground"
+    },
+    "snubbull": {
+        "Name": "snubbull",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "granbull": {
+        "Name": "granbull",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "qwilfish": {
+        "Name": "qwilfish",
+        "Type1": "Water",
+        "Type2": "Poison"
+    },
+    "scizor": {
+        "Name": "scizor",
+        "Type1": "Bug",
+        "Type2": "Steel"
+    },
+    "shuckle": {
+        "Name": "shuckle",
+        "Type1": "Bug",
+        "Type2": "Rock"
+    },
+    "heracross": {
+        "Name": "heracross",
+        "Type1": "Bug",
+        "Type2": "Fighting"
+    },
+    "sneasel": {
+        "Name": "sneasel",
+        "Type1": "Dark",
+        "Type2": "Ice"
+    },
+    "teddiursa": {
+        "Name": "teddiursa",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "ursaring": {
+        "Name": "ursaring",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "slugma": {
+        "Name": "slugma",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "magcargo": {
+        "Name": "magcargo",
+        "Type1": "Fire",
+        "Type2": "Rock"
+    },
+    "swinub": {
+        "Name": "swinub",
+        "Type1": "Ice",
+        "Type2": "Ground"
+    },
+    "piloswine": {
+        "Name": "piloswine",
+        "Type1": "Ice",
+        "Type2": "Ground"
+    },
+    "corsola": {
+        "Name": "corsola",
+        "Type1": "Water",
+        "Type2": "Rock"
+    },
+    "remoraid": {
+        "Name": "remoraid",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "octillery": {
+        "Name": "octillery",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "delibird": {
+        "Name": "delibird",
+        "Type1": "Ice",
+        "Type2": "Flying"
+    },
+    "mantine": {
+        "Name": "mantine",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "skarmory": {
+        "Name": "skarmory",
+        "Type1": "Steel",
+        "Type2": "Flying"
+    },
+    "houndour": {
+        "Name": "houndour",
+        "Type1": "Dark",
+        "Type2": "Fire"
+    },
+    "houndoom": {
+        "Name": "houndoom",
+        "Type1": "Dark",
+        "Type2": "Fire"
+    },
+    "kingdra": {
+        "Name": "kingdra",
+        "Type1": "Water",
+        "Type2": "Dragon"
+    },
+    "phanpy": {
+        "Name": "phanpy",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "donphan": {
+        "Name": "donphan",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "porygon2": {
+        "Name": "porygon2",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "stantler": {
+        "Name": "stantler",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "smeargle": {
+        "Name": "smeargle",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "tyrogue": {
+        "Name": "tyrogue",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "hitmontop": {
+        "Name": "hitmontop",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "smoochum": {
+        "Name": "smoochum",
+        "Type1": "Ice",
+        "Type2": "Psychic"
+    },
+    "elekid": {
+        "Name": "elekid",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "magby": {
+        "Name": "magby",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "miltank": {
+        "Name": "miltank",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "blissey": {
+        "Name": "blissey",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "raikou": {
+        "Name": "raikou",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "entei": {
+        "Name": "entei",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "suicune": {
+        "Name": "suicune",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "larvitar": {
+        "Name": "larvitar",
+        "Type1": "Rock",
+        "Type2": "Ground"
+    },
+    "pupitar": {
+        "Name": "pupitar",
+        "Type1": "Rock",
+        "Type2": "Ground"
+    },
+    "tyranitar": {
+        "Name": "tyranitar",
+        "Type1": "Rock",
+        "Type2": "Dark"
+    },
+    "lugia": {
+        "Name": "lugia",
+        "Type1": "Psychic",
+        "Type2": "Flying"
+    },
+    "ho-oh": {
+        "Name": "ho-oh",
+        "Type1": "Fire",
+        "Type2": "Flying"
+    },
+    "celebi": {
+        "Name": "celebi",
+        "Type1": "Psychic",
+        "Type2": "Grass"
+    },
+    "treecko": {
+        "Name": "treecko",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "grovyle": {
+        "Name": "grovyle",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "sceptile": {
+        "Name": "sceptile",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "torchic": {
+        "Name": "torchic",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "combusken": {
+        "Name": "combusken",
+        "Type1": "Fire",
+        "Type2": "Fighting"
+    },
+    "blaziken": {
+        "Name": "blaziken",
+        "Type1": "Fire",
+        "Type2": "Fighting"
+    },
+    "mudkip": {
+        "Name": "mudkip",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "marshtomp": {
+        "Name": "marshtomp",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "swampert": {
+        "Name": "swampert",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "poochyena": {
+        "Name": "poochyena",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "mightyena": {
+        "Name": "mightyena",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "zigzagoon": {
+        "Name": "zigzagoon",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "linoone": {
+        "Name": "linoone",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "wurmple": {
+        "Name": "wurmple",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "silcoon": {
+        "Name": "silcoon",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "beautifly": {
+        "Name": "beautifly",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "cascoon": {
+        "Name": "cascoon",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "dustox": {
+        "Name": "dustox",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "lotad": {
+        "Name": "lotad",
+        "Type1": "Water",
+        "Type2": "Grass"
+    },
+    "lombre": {
+        "Name": "lombre",
+        "Type1": "Water",
+        "Type2": "Grass"
+    },
+    "ludicolo": {
+        "Name": "ludicolo",
+        "Type1": "Water",
+        "Type2": "Grass"
+    },
+    "seedot": {
+        "Name": "seedot",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "nuzleaf": {
+        "Name": "nuzleaf",
+        "Type1": "Grass",
+        "Type2": "Dark"
+    },
+    "shiftry": {
+        "Name": "shiftry",
+        "Type1": "Grass",
+        "Type2": "Dark"
+    },
+    "taillow": {
+        "Name": "taillow",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "swellow": {
+        "Name": "swellow",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "wingull": {
+        "Name": "wingull",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "pelipper": {
+        "Name": "pelipper",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "ralts": {
+        "Name": "ralts",
+        "Type1": "Psychic",
+        "Type2": "Fairy"
+    },
+    "kirlia": {
+        "Name": "kirlia",
+        "Type1": "Psychic",
+        "Type2": "Fairy"
+    },
+    "gardevoir": {
+        "Name": "gardevoir",
+        "Type1": "Psychic",
+        "Type2": "Fairy"
+    },
+    "surskit": {
+        "Name": "surskit",
+        "Type1": "Bug",
+        "Type2": "Water"
+    },
+    "masquerain": {
+        "Name": "masquerain",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "shroomish": {
+        "Name": "shroomish",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "breloom": {
+        "Name": "breloom",
+        "Type1": "Grass",
+        "Type2": "Fighting"
+    },
+    "slakoth": {
+        "Name": "slakoth",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "vigoroth": {
+        "Name": "vigoroth",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "slaking": {
+        "Name": "slaking",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "nincada": {
+        "Name": "nincada",
+        "Type1": "Bug",
+        "Type2": "Ground"
+    },
+    "ninjask": {
+        "Name": "ninjask",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "shedinja": {
+        "Name": "shedinja",
+        "Type1": "Bug",
+        "Type2": "Ghost"
+    },
+    "whismur": {
+        "Name": "whismur",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "loudred": {
+        "Name": "loudred",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "exploud": {
+        "Name": "exploud",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "makuhita": {
+        "Name": "makuhita",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "hariyama": {
+        "Name": "hariyama",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "azurill": {
+        "Name": "azurill",
+        "Type1": "Normal",
+        "Type2": "Fairy"
+    },
+    "nosepass": {
+        "Name": "nosepass",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "skitty": {
+        "Name": "skitty",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "delcatty": {
+        "Name": "delcatty",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "sableye": {
+        "Name": "sableye",
+        "Type1": "Dark",
+        "Type2": "Ghost"
+    },
+    "mawile": {
+        "Name": "mawile",
+        "Type1": "Steel",
+        "Type2": "Fairy"
+    },
+    "aron": {
+        "Name": "aron",
+        "Type1": "Steel",
+        "Type2": "Rock"
+    },
+    "lairon": {
+        "Name": "lairon",
+        "Type1": "Steel",
+        "Type2": "Rock"
+    },
+    "aggron": {
+        "Name": "aggron",
+        "Type1": "Steel",
+        "Type2": "Rock"
+    },
+    "meditite": {
+        "Name": "meditite",
+        "Type1": "Fighting",
+        "Type2": "Psychic"
+    },
+    "medicham": {
+        "Name": "medicham",
+        "Type1": "Fighting",
+        "Type2": "Psychic"
+    },
+    "electrike": {
+        "Name": "electrike",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "manectric": {
+        "Name": "manectric",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "plusle": {
+        "Name": "plusle",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "minun": {
+        "Name": "minun",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "volbeat": {
+        "Name": "volbeat",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "illumise": {
+        "Name": "illumise",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "roselia": {
+        "Name": "roselia",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "gulpin": {
+        "Name": "gulpin",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "swalot": {
+        "Name": "swalot",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "carvanha": {
+        "Name": "carvanha",
+        "Type1": "Water",
+        "Type2": "Dark"
+    },
+    "sharpedo": {
+        "Name": "sharpedo",
+        "Type1": "Water",
+        "Type2": "Dark"
+    },
+    "wailmer": {
+        "Name": "wailmer",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "wailord": {
+        "Name": "wailord",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "numel": {
+        "Name": "numel",
+        "Type1": "Fire",
+        "Type2": "Ground"
+    },
+    "camerupt": {
+        "Name": "camerupt",
+        "Type1": "Fire",
+        "Type2": "Ground"
+    },
+    "torkoal": {
+        "Name": "torkoal",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "spoink": {
+        "Name": "spoink",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "grumpig": {
+        "Name": "grumpig",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "spinda": {
+        "Name": "spinda",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "trapinch": {
+        "Name": "trapinch",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "vibrava": {
+        "Name": "vibrava",
+        "Type1": "Ground",
+        "Type2": "Dragon"
+    },
+    "flygon": {
+        "Name": "flygon",
+        "Type1": "Ground",
+        "Type2": "Dragon"
+    },
+    "cacnea": {
+        "Name": "cacnea",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "cacturne": {
+        "Name": "cacturne",
+        "Type1": "Grass",
+        "Type2": "Dark"
+    },
+    "swablu": {
+        "Name": "swablu",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "altaria": {
+        "Name": "altaria",
+        "Type1": "Dragon",
+        "Type2": "Flying"
+    },
+    "zangoose": {
+        "Name": "zangoose",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "seviper": {
+        "Name": "seviper",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "lunatone": {
+        "Name": "lunatone",
+        "Type1": "Rock",
+        "Type2": "Psychic"
+    },
+    "solrock": {
+        "Name": "solrock",
+        "Type1": "Rock",
+        "Type2": "Psychic"
+    },
+    "barboach": {
+        "Name": "barboach",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "whiscash": {
+        "Name": "whiscash",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "corphish": {
+        "Name": "corphish",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "crawdaunt": {
+        "Name": "crawdaunt",
+        "Type1": "Water",
+        "Type2": "Dark"
+    },
+    "baltoy": {
+        "Name": "baltoy",
+        "Type1": "Ground",
+        "Type2": "Psychic"
+    },
+    "claydol": {
+        "Name": "claydol",
+        "Type1": "Ground",
+        "Type2": "Psychic"
+    },
+    "lileep": {
+        "Name": "lileep",
+        "Type1": "Rock",
+        "Type2": "Grass"
+    },
+    "cradily": {
+        "Name": "cradily",
+        "Type1": "Rock",
+        "Type2": "Grass"
+    },
+    "anorith": {
+        "Name": "anorith",
+        "Type1": "Rock",
+        "Type2": "Bug"
+    },
+    "armaldo": {
+        "Name": "armaldo",
+        "Type1": "Rock",
+        "Type2": "Bug"
+    },
+    "feebas": {
+        "Name": "feebas",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "milotic": {
+        "Name": "milotic",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "castform": {
+        "Name": "castform",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "kecleon": {
+        "Name": "kecleon",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "shuppet": {
+        "Name": "shuppet",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "banette": {
+        "Name": "banette",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "duskull": {
+        "Name": "duskull",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "dusclops": {
+        "Name": "dusclops",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "tropius": {
+        "Name": "tropius",
+        "Type1": "Grass",
+        "Type2": "Flying"
+    },
+    "chimecho": {
+        "Name": "chimecho",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "absol": {
+        "Name": "absol",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "wynaut": {
+        "Name": "wynaut",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "snorunt": {
+        "Name": "snorunt",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "glalie": {
+        "Name": "glalie",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "spheal": {
+        "Name": "spheal",
+        "Type1": "Ice",
+        "Type2": "Water"
+    },
+    "sealeo": {
+        "Name": "sealeo",
+        "Type1": "Ice",
+        "Type2": "Water"
+    },
+    "walrein": {
+        "Name": "walrein",
+        "Type1": "Ice",
+        "Type2": "Water"
+    },
+    "clamperl": {
+        "Name": "clamperl",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "huntail": {
+        "Name": "huntail",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "gorebyss": {
+        "Name": "gorebyss",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "relicanth": {
+        "Name": "relicanth",
+        "Type1": "Water",
+        "Type2": "Rock"
+    },
+    "luvdisc": {
+        "Name": "luvdisc",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "bagon": {
+        "Name": "bagon",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "shelgon": {
+        "Name": "shelgon",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "salamence": {
+        "Name": "salamence",
+        "Type1": "Dragon",
+        "Type2": "Flying"
+    },
+    "beldum": {
+        "Name": "beldum",
+        "Type1": "Steel",
+        "Type2": "Psychic"
+    },
+    "metang": {
+        "Name": "metang",
+        "Type1": "Steel",
+        "Type2": "Psychic"
+    },
+    "metagross": {
+        "Name": "metagross",
+        "Type1": "Steel",
+        "Type2": "Psychic"
+    },
+    "regirock": {
+        "Name": "regirock",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "regice": {
+        "Name": "regice",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "registeel": {
+        "Name": "registeel",
+        "Type1": "Steel",
+        "Type2": ""
+    },
+    "latias": {
+        "Name": "latias",
+        "Type1": "Dragon",
+        "Type2": "Psychic"
+    },
+    "latios": {
+        "Name": "latios",
+        "Type1": "Dragon",
+        "Type2": "Psychic"
+    },
+    "kyogre": {
+        "Name": "kyogre",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "groudon": {
+        "Name": "groudon",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "rayquaza": {
+        "Name": "rayquaza",
+        "Type1": "Dragon",
+        "Type2": "Flying"
+    },
+    "jirachi": {
+        "Name": "jirachi",
+        "Type1": "Steel",
+        "Type2": "Psychic"
+    },
+    "deoxys-normal": {
+        "Name": "deoxys-normal",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "turtwig": {
+        "Name": "turtwig",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "grotle": {
+        "Name": "grotle",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "torterra": {
+        "Name": "torterra",
+        "Type1": "Grass",
+        "Type2": "Ground"
+    },
+    "chimchar": {
+        "Name": "chimchar",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "monferno": {
+        "Name": "monferno",
+        "Type1": "Fire",
+        "Type2": "Fighting"
+    },
+    "infernape": {
+        "Name": "infernape",
+        "Type1": "Fire",
+        "Type2": "Fighting"
+    },
+    "piplup": {
+        "Name": "piplup",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "prinplup": {
+        "Name": "prinplup",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "empoleon": {
+        "Name": "empoleon",
+        "Type1": "Water",
+        "Type2": "Steel"
+    },
+    "starly": {
+        "Name": "starly",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "staravia": {
+        "Name": "staravia",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "staraptor": {
+        "Name": "staraptor",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "bidoof": {
+        "Name": "bidoof",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "bibarel": {
+        "Name": "bibarel",
+        "Type1": "Normal",
+        "Type2": "Water"
+    },
+    "kricketot": {
+        "Name": "kricketot",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "kricketune": {
+        "Name": "kricketune",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "shinx": {
+        "Name": "shinx",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "luxio": {
+        "Name": "luxio",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "luxray": {
+        "Name": "luxray",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "budew": {
+        "Name": "budew",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "roserade": {
+        "Name": "roserade",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "cranidos": {
+        "Name": "cranidos",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "rampardos": {
+        "Name": "rampardos",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "shieldon": {
+        "Name": "shieldon",
+        "Type1": "Rock",
+        "Type2": "Steel"
+    },
+    "bastiodon": {
+        "Name": "bastiodon",
+        "Type1": "Rock",
+        "Type2": "Steel"
+    },
+    "burmy": {
+        "Name": "burmy",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "wormadam-plant": {
+        "Name": "wormadam-plant",
+        "Type1": "Bug",
+        "Type2": "Grass"
+    },
+    "mothim": {
+        "Name": "mothim",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "combee": {
+        "Name": "combee",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "vespiquen": {
+        "Name": "vespiquen",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "pachirisu": {
+        "Name": "pachirisu",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "buizel": {
+        "Name": "buizel",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "floatzel": {
+        "Name": "floatzel",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "cherubi": {
+        "Name": "cherubi",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "cherrim": {
+        "Name": "cherrim",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "shellos": {
+        "Name": "shellos",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "gastrodon": {
+        "Name": "gastrodon",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "ambipom": {
+        "Name": "ambipom",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "drifloon": {
+        "Name": "drifloon",
+        "Type1": "Ghost",
+        "Type2": "Flying"
+    },
+    "drifblim": {
+        "Name": "drifblim",
+        "Type1": "Ghost",
+        "Type2": "Flying"
+    },
+    "buneary": {
+        "Name": "buneary",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "lopunny": {
+        "Name": "lopunny",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "mismagius": {
+        "Name": "mismagius",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "honchkrow": {
+        "Name": "honchkrow",
+        "Type1": "Dark",
+        "Type2": "Flying"
+    },
+    "glameow": {
+        "Name": "glameow",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "purugly": {
+        "Name": "purugly",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "chingling": {
+        "Name": "chingling",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "stunky": {
+        "Name": "stunky",
+        "Type1": "Poison",
+        "Type2": "Dark"
+    },
+    "skuntank": {
+        "Name": "skuntank",
+        "Type1": "Poison",
+        "Type2": "Dark"
+    },
+    "bronzor": {
+        "Name": "bronzor",
+        "Type1": "Steel",
+        "Type2": "Psychic"
+    },
+    "bronzong": {
+        "Name": "bronzong",
+        "Type1": "Steel",
+        "Type2": "Psychic"
+    },
+    "bonsly": {
+        "Name": "bonsly",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "mime-jr": {
+        "Name": "mime-jr",
+        "Type1": "Psychic",
+        "Type2": "Fairy"
+    },
+    "happiny": {
+        "Name": "happiny",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "chatot": {
+        "Name": "chatot",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "spiritomb": {
+        "Name": "spiritomb",
+        "Type1": "Ghost",
+        "Type2": "Dark"
+    },
+    "gible": {
+        "Name": "gible",
+        "Type1": "Dragon",
+        "Type2": "Ground"
+    },
+    "gabite": {
+        "Name": "gabite",
+        "Type1": "Dragon",
+        "Type2": "Ground"
+    },
+    "garchomp": {
+        "Name": "garchomp",
+        "Type1": "Dragon",
+        "Type2": "Ground"
+    },
+    "munchlax": {
+        "Name": "munchlax",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "riolu": {
+        "Name": "riolu",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "lucario": {
+        "Name": "lucario",
+        "Type1": "Fighting",
+        "Type2": "Steel"
+    },
+    "hippopotas": {
+        "Name": "hippopotas",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "hippowdon": {
+        "Name": "hippowdon",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "skorupi": {
+        "Name": "skorupi",
+        "Type1": "Poison",
+        "Type2": "Bug"
+    },
+    "drapion": {
+        "Name": "drapion",
+        "Type1": "Poison",
+        "Type2": "Dark"
+    },
+    "croagunk": {
+        "Name": "croagunk",
+        "Type1": "Poison",
+        "Type2": "Fighting"
+    },
+    "toxicroak": {
+        "Name": "toxicroak",
+        "Type1": "Poison",
+        "Type2": "Fighting"
+    },
+    "carnivine": {
+        "Name": "carnivine",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "finneon": {
+        "Name": "finneon",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "lumineon": {
+        "Name": "lumineon",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "mantyke": {
+        "Name": "mantyke",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "snover": {
+        "Name": "snover",
+        "Type1": "Grass",
+        "Type2": "Ice"
+    },
+    "abomasnow": {
+        "Name": "abomasnow",
+        "Type1": "Grass",
+        "Type2": "Ice"
+    },
+    "weavile": {
+        "Name": "weavile",
+        "Type1": "Dark",
+        "Type2": "Ice"
+    },
+    "magnezone": {
+        "Name": "magnezone",
+        "Type1": "Electric",
+        "Type2": "Steel"
+    },
+    "lickilicky": {
+        "Name": "lickilicky",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "rhyperior": {
+        "Name": "rhyperior",
+        "Type1": "Ground",
+        "Type2": "Rock"
+    },
+    "tangrowth": {
+        "Name": "tangrowth",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "electivire": {
+        "Name": "electivire",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "magmortar": {
+        "Name": "magmortar",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "togekiss": {
+        "Name": "togekiss",
+        "Type1": "Fairy",
+        "Type2": "Flying"
+    },
+    "yanmega": {
+        "Name": "yanmega",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "leafeon": {
+        "Name": "leafeon",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "glaceon": {
+        "Name": "glaceon",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "gliscor": {
+        "Name": "gliscor",
+        "Type1": "Ground",
+        "Type2": "Flying"
+    },
+    "mamoswine": {
+        "Name": "mamoswine",
+        "Type1": "Ice",
+        "Type2": "Ground"
+    },
+    "porygon-z": {
+        "Name": "porygon-z",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "gallade": {
+        "Name": "gallade",
+        "Type1": "Psychic",
+        "Type2": "Fighting"
+    },
+    "probopass": {
+        "Name": "probopass",
+        "Type1": "Rock",
+        "Type2": "Steel"
+    },
+    "dusknoir": {
+        "Name": "dusknoir",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "froslass": {
+        "Name": "froslass",
+        "Type1": "Ice",
+        "Type2": "Ghost"
+    },
+    "rotom": {
+        "Name": "rotom",
+        "Type1": "Electric",
+        "Type2": "Ghost"
+    },
+    "uxie": {
+        "Name": "uxie",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "mesprit": {
+        "Name": "mesprit",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "azelf": {
+        "Name": "azelf",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "dialga": {
+        "Name": "dialga",
+        "Type1": "Steel",
+        "Type2": "Dragon"
+    },
+    "palkia": {
+        "Name": "palkia",
+        "Type1": "Water",
+        "Type2": "Dragon"
+    },
+    "heatran": {
+        "Name": "heatran",
+        "Type1": "Fire",
+        "Type2": "Steel"
+    },
+    "regigigas": {
+        "Name": "regigigas",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "giratina-altered": {
+        "Name": "giratina-altered",
+        "Type1": "Ghost",
+        "Type2": "Dragon"
+    },
+    "cresselia": {
+        "Name": "cresselia",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "phione": {
+        "Name": "phione",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "manaphy": {
+        "Name": "manaphy",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "darkrai": {
+        "Name": "darkrai",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "shaymin-land": {
+        "Name": "shaymin-land",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "arceus": {
+        "Name": "arceus",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "victini": {
+        "Name": "victini",
+        "Type1": "Psychic",
+        "Type2": "Fire"
+    },
+    "snivy": {
+        "Name": "snivy",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "servine": {
+        "Name": "servine",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "serperior": {
+        "Name": "serperior",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "tepig": {
+        "Name": "tepig",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "pignite": {
+        "Name": "pignite",
+        "Type1": "Fire",
+        "Type2": "Fighting"
+    },
+    "emboar": {
+        "Name": "emboar",
+        "Type1": "Fire",
+        "Type2": "Fighting"
+    },
+    "oshawott": {
+        "Name": "oshawott",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "dewott": {
+        "Name": "dewott",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "samurott": {
+        "Name": "samurott",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "patrat": {
+        "Name": "patrat",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "watchog": {
+        "Name": "watchog",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "lillipup": {
+        "Name": "lillipup",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "herdier": {
+        "Name": "herdier",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "stoutland": {
+        "Name": "stoutland",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "purrloin": {
+        "Name": "purrloin",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "liepard": {
+        "Name": "liepard",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "pansage": {
+        "Name": "pansage",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "simisage": {
+        "Name": "simisage",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "pansear": {
+        "Name": "pansear",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "simisear": {
+        "Name": "simisear",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "panpour": {
+        "Name": "panpour",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "simipour": {
+        "Name": "simipour",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "munna": {
+        "Name": "munna",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "musharna": {
+        "Name": "musharna",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "pidove": {
+        "Name": "pidove",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "tranquill": {
+        "Name": "tranquill",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "unfezant": {
+        "Name": "unfezant",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "blitzle": {
+        "Name": "blitzle",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "zebstrika": {
+        "Name": "zebstrika",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "roggenrola": {
+        "Name": "roggenrola",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "boldore": {
+        "Name": "boldore",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "gigalith": {
+        "Name": "gigalith",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "woobat": {
+        "Name": "woobat",
+        "Type1": "Psychic",
+        "Type2": "Flying"
+    },
+    "swoobat": {
+        "Name": "swoobat",
+        "Type1": "Psychic",
+        "Type2": "Flying"
+    },
+    "drilbur": {
+        "Name": "drilbur",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "excadrill": {
+        "Name": "excadrill",
+        "Type1": "Ground",
+        "Type2": "Steel"
+    },
+    "audino": {
+        "Name": "audino",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "timburr": {
+        "Name": "timburr",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "gurdurr": {
+        "Name": "gurdurr",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "conkeldurr": {
+        "Name": "conkeldurr",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "tympole": {
+        "Name": "tympole",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "palpitoad": {
+        "Name": "palpitoad",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "seismitoad": {
+        "Name": "seismitoad",
+        "Type1": "Water",
+        "Type2": "Ground"
+    },
+    "throh": {
+        "Name": "throh",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "sawk": {
+        "Name": "sawk",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "sewaddle": {
+        "Name": "sewaddle",
+        "Type1": "Bug",
+        "Type2": "Grass"
+    },
+    "swadloon": {
+        "Name": "swadloon",
+        "Type1": "Bug",
+        "Type2": "Grass"
+    },
+    "leavanny": {
+        "Name": "leavanny",
+        "Type1": "Bug",
+        "Type2": "Grass"
+    },
+    "venipede": {
+        "Name": "venipede",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "whirlipede": {
+        "Name": "whirlipede",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "scolipede": {
+        "Name": "scolipede",
+        "Type1": "Bug",
+        "Type2": "Poison"
+    },
+    "cottonee": {
+        "Name": "cottonee",
+        "Type1": "Grass",
+        "Type2": "Fairy"
+    },
+    "whimsicott": {
+        "Name": "whimsicott",
+        "Type1": "Grass",
+        "Type2": "Fairy"
+    },
+    "petilil": {
+        "Name": "petilil",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "lilligant": {
+        "Name": "lilligant",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "basculin-red-striped": {
+        "Name": "basculin-red-striped",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "sandile": {
+        "Name": "sandile",
+        "Type1": "Ground",
+        "Type2": "Dark"
+    },
+    "krokorok": {
+        "Name": "krokorok",
+        "Type1": "Ground",
+        "Type2": "Dark"
+    },
+    "krookodile": {
+        "Name": "krookodile",
+        "Type1": "Ground",
+        "Type2": "Dark"
+    },
+    "darumaka": {
+        "Name": "darumaka",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "darmanitan-standard": {
+        "Name": "darmanitan-standard",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "maractus": {
+        "Name": "maractus",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "dwebble": {
+        "Name": "dwebble",
+        "Type1": "Bug",
+        "Type2": "Rock"
+    },
+    "crustle": {
+        "Name": "crustle",
+        "Type1": "Bug",
+        "Type2": "Rock"
+    },
+    "scraggy": {
+        "Name": "scraggy",
+        "Type1": "Dark",
+        "Type2": "Fighting"
+    },
+    "scrafty": {
+        "Name": "scrafty",
+        "Type1": "Dark",
+        "Type2": "Fighting"
+    },
+    "sigilyph": {
+        "Name": "sigilyph",
+        "Type1": "Psychic",
+        "Type2": "Flying"
+    },
+    "yamask": {
+        "Name": "yamask",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "cofagrigus": {
+        "Name": "cofagrigus",
+        "Type1": "Ghost",
+        "Type2": ""
+    },
+    "tirtouga": {
+        "Name": "tirtouga",
+        "Type1": "Water",
+        "Type2": "Rock"
+    },
+    "carracosta": {
+        "Name": "carracosta",
+        "Type1": "Water",
+        "Type2": "Rock"
+    },
+    "archen": {
+        "Name": "archen",
+        "Type1": "Rock",
+        "Type2": "Flying"
+    },
+    "archeops": {
+        "Name": "archeops",
+        "Type1": "Rock",
+        "Type2": "Flying"
+    },
+    "trubbish": {
+        "Name": "trubbish",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "garbodor": {
+        "Name": "garbodor",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "zorua": {
+        "Name": "zorua",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "zoroark": {
+        "Name": "zoroark",
+        "Type1": "Dark",
+        "Type2": ""
+    },
+    "minccino": {
+        "Name": "minccino",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "cinccino": {
+        "Name": "cinccino",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "gothita": {
+        "Name": "gothita",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "gothorita": {
+        "Name": "gothorita",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "gothitelle": {
+        "Name": "gothitelle",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "solosis": {
+        "Name": "solosis",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "duosion": {
+        "Name": "duosion",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "reuniclus": {
+        "Name": "reuniclus",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "ducklett": {
+        "Name": "ducklett",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "swanna": {
+        "Name": "swanna",
+        "Type1": "Water",
+        "Type2": "Flying"
+    },
+    "vanillite": {
+        "Name": "vanillite",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "vanillish": {
+        "Name": "vanillish",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "vanilluxe": {
+        "Name": "vanilluxe",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "deerling": {
+        "Name": "deerling",
+        "Type1": "Normal",
+        "Type2": "Grass"
+    },
+    "sawsbuck": {
+        "Name": "sawsbuck",
+        "Type1": "Normal",
+        "Type2": "Grass"
+    },
+    "emolga": {
+        "Name": "emolga",
+        "Type1": "Electric",
+        "Type2": "Flying"
+    },
+    "karrablast": {
+        "Name": "karrablast",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "escavalier": {
+        "Name": "escavalier",
+        "Type1": "Bug",
+        "Type2": "Steel"
+    },
+    "foongus": {
+        "Name": "foongus",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "amoonguss": {
+        "Name": "amoonguss",
+        "Type1": "Grass",
+        "Type2": "Poison"
+    },
+    "frillish": {
+        "Name": "frillish",
+        "Type1": "Water",
+        "Type2": "Ghost"
+    },
+    "jellicent": {
+        "Name": "jellicent",
+        "Type1": "Water",
+        "Type2": "Ghost"
+    },
+    "alomomola": {
+        "Name": "alomomola",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "joltik": {
+        "Name": "joltik",
+        "Type1": "Bug",
+        "Type2": "Electric"
+    },
+    "galvantula": {
+        "Name": "galvantula",
+        "Type1": "Bug",
+        "Type2": "Electric"
+    },
+    "ferroseed": {
+        "Name": "ferroseed",
+        "Type1": "Grass",
+        "Type2": "Steel"
+    },
+    "ferrothorn": {
+        "Name": "ferrothorn",
+        "Type1": "Grass",
+        "Type2": "Steel"
+    },
+    "klink": {
+        "Name": "klink",
+        "Type1": "Steel",
+        "Type2": ""
+    },
+    "klang": {
+        "Name": "klang",
+        "Type1": "Steel",
+        "Type2": ""
+    },
+    "klinklang": {
+        "Name": "klinklang",
+        "Type1": "Steel",
+        "Type2": ""
+    },
+    "tynamo": {
+        "Name": "tynamo",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "eelektrik": {
+        "Name": "eelektrik",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "eelektross": {
+        "Name": "eelektross",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "elgyem": {
+        "Name": "elgyem",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "beheeyem": {
+        "Name": "beheeyem",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "litwick": {
+        "Name": "litwick",
+        "Type1": "Ghost",
+        "Type2": "Fire"
+    },
+    "lampent": {
+        "Name": "lampent",
+        "Type1": "Ghost",
+        "Type2": "Fire"
+    },
+    "chandelure": {
+        "Name": "chandelure",
+        "Type1": "Ghost",
+        "Type2": "Fire"
+    },
+    "axew": {
+        "Name": "axew",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "fraxure": {
+        "Name": "fraxure",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "haxorus": {
+        "Name": "haxorus",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "cubchoo": {
+        "Name": "cubchoo",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "beartic": {
+        "Name": "beartic",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "cryogonal": {
+        "Name": "cryogonal",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "shelmet": {
+        "Name": "shelmet",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "accelgor": {
+        "Name": "accelgor",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "stunfisk": {
+        "Name": "stunfisk",
+        "Type1": "Ground",
+        "Type2": "Electric"
+    },
+    "mienfoo": {
+        "Name": "mienfoo",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "mienshao": {
+        "Name": "mienshao",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "druddigon": {
+        "Name": "druddigon",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "golett": {
+        "Name": "golett",
+        "Type1": "Ground",
+        "Type2": "Ghost"
+    },
+    "golurk": {
+        "Name": "golurk",
+        "Type1": "Ground",
+        "Type2": "Ghost"
+    },
+    "pawniard": {
+        "Name": "pawniard",
+        "Type1": "Dark",
+        "Type2": "Steel"
+    },
+    "bisharp": {
+        "Name": "bisharp",
+        "Type1": "Dark",
+        "Type2": "Steel"
+    },
+    "bouffalant": {
+        "Name": "bouffalant",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "rufflet": {
+        "Name": "rufflet",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "braviary": {
+        "Name": "braviary",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "vullaby": {
+        "Name": "vullaby",
+        "Type1": "Dark",
+        "Type2": "Flying"
+    },
+    "mandibuzz": {
+        "Name": "mandibuzz",
+        "Type1": "Dark",
+        "Type2": "Flying"
+    },
+    "heatmor": {
+        "Name": "heatmor",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "durant": {
+        "Name": "durant",
+        "Type1": "Bug",
+        "Type2": "Steel"
+    },
+    "deino": {
+        "Name": "deino",
+        "Type1": "Dark",
+        "Type2": "Dragon"
+    },
+    "zweilous": {
+        "Name": "zweilous",
+        "Type1": "Dark",
+        "Type2": "Dragon"
+    },
+    "hydreigon": {
+        "Name": "hydreigon",
+        "Type1": "Dark",
+        "Type2": "Dragon"
+    },
+    "larvesta": {
+        "Name": "larvesta",
+        "Type1": "Bug",
+        "Type2": "Fire"
+    },
+    "volcarona": {
+        "Name": "volcarona",
+        "Type1": "Bug",
+        "Type2": "Fire"
+    },
+    "cobalion": {
+        "Name": "cobalion",
+        "Type1": "Steel",
+        "Type2": "Fighting"
+    },
+    "terrakion": {
+        "Name": "terrakion",
+        "Type1": "Rock",
+        "Type2": "Fighting"
+    },
+    "virizion": {
+        "Name": "virizion",
+        "Type1": "Grass",
+        "Type2": "Fighting"
+    },
+    "tornadus-incarnate": {
+        "Name": "tornadus-incarnate",
+        "Type1": "Flying",
+        "Type2": ""
+    },
+    "thundurus-incarnate": {
+        "Name": "thundurus-incarnate",
+        "Type1": "Electric",
+        "Type2": "Flying"
+    },
+    "reshiram": {
+        "Name": "reshiram",
+        "Type1": "Dragon",
+        "Type2": "Fire"
+    },
+    "zekrom": {
+        "Name": "zekrom",
+        "Type1": "Dragon",
+        "Type2": "Electric"
+    },
+    "landorus-incarnate": {
+        "Name": "landorus-incarnate",
+        "Type1": "Ground",
+        "Type2": "Flying"
+    },
+    "kyurem": {
+        "Name": "kyurem",
+        "Type1": "Dragon",
+        "Type2": "Ice"
+    },
+    "keldeo-ordinary": {
+        "Name": "keldeo-ordinary",
+        "Type1": "Water",
+        "Type2": "Fighting"
+    },
+    "meloetta-aria": {
+        "Name": "meloetta-aria",
+        "Type1": "Normal",
+        "Type2": "Psychic"
+    },
+    "genesect": {
+        "Name": "genesect",
+        "Type1": "Bug",
+        "Type2": "Steel"
+    },
+    "chespin": {
+        "Name": "chespin",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "quilladin": {
+        "Name": "quilladin",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "chesnaught": {
+        "Name": "chesnaught",
+        "Type1": "Grass",
+        "Type2": "Fighting"
+    },
+    "fennekin": {
+        "Name": "fennekin",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "braixen": {
+        "Name": "braixen",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "delphox": {
+        "Name": "delphox",
+        "Type1": "Fire",
+        "Type2": "Psychic"
+    },
+    "froakie": {
+        "Name": "froakie",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "frogadier": {
+        "Name": "frogadier",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "greninja": {
+        "Name": "greninja",
+        "Type1": "Water",
+        "Type2": "Dark"
+    },
+    "bunnelby": {
+        "Name": "bunnelby",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "diggersby": {
+        "Name": "diggersby",
+        "Type1": "Normal",
+        "Type2": "Ground"
+    },
+    "fletchling": {
+        "Name": "fletchling",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "fletchinder": {
+        "Name": "fletchinder",
+        "Type1": "Fire",
+        "Type2": "Flying"
+    },
+    "talonflame": {
+        "Name": "talonflame",
+        "Type1": "Fire",
+        "Type2": "Flying"
+    },
+    "scatterbug": {
+        "Name": "scatterbug",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "spewpa": {
+        "Name": "spewpa",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "vivillon": {
+        "Name": "vivillon",
+        "Type1": "Bug",
+        "Type2": "Flying"
+    },
+    "litleo": {
+        "Name": "litleo",
+        "Type1": "Fire",
+        "Type2": "Normal"
+    },
+    "pyroar": {
+        "Name": "pyroar",
+        "Type1": "Fire",
+        "Type2": "Normal"
+    },
+    "flabebe": {
+        "Name": "flabebe",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "floette": {
+        "Name": "floette",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "florges": {
+        "Name": "florges",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "skiddo": {
+        "Name": "skiddo",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "gogoat": {
+        "Name": "gogoat",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "pancham": {
+        "Name": "pancham",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "pangoro": {
+        "Name": "pangoro",
+        "Type1": "Fighting",
+        "Type2": "Dark"
+    },
+    "furfrou": {
+        "Name": "furfrou",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "espurr": {
+        "Name": "espurr",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "meowstic-male": {
+        "Name": "meowstic-male",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "honedge": {
+        "Name": "honedge",
+        "Type1": "Steel",
+        "Type2": "Ghost"
+    },
+    "doublade": {
+        "Name": "doublade",
+        "Type1": "Steel",
+        "Type2": "Ghost"
+    },
+    "aegislash-blade": {
+        "Name": "aegislash-blade",
+        "Type1": "Steel",
+        "Type2": "Ghost"
+    },
+    "spritzee": {
+        "Name": "spritzee",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "aromatisse": {
+        "Name": "aromatisse",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "swirlix": {
+        "Name": "swirlix",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "slurpuff": {
+        "Name": "slurpuff",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "inkay": {
+        "Name": "inkay",
+        "Type1": "Dark",
+        "Type2": "Psychic"
+    },
+    "malamar": {
+        "Name": "malamar",
+        "Type1": "Dark",
+        "Type2": "Psychic"
+    },
+    "binacle": {
+        "Name": "binacle",
+        "Type1": "Rock",
+        "Type2": "Water"
+    },
+    "barbaracle": {
+        "Name": "barbaracle",
+        "Type1": "Rock",
+        "Type2": "Water"
+    },
+    "skrelp": {
+        "Name": "skrelp",
+        "Type1": "Poison",
+        "Type2": "Water"
+    },
+    "dragalge": {
+        "Name": "dragalge",
+        "Type1": "Poison",
+        "Type2": "Dragon"
+    },
+    "clauncher": {
+        "Name": "clauncher",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "clawitzer": {
+        "Name": "clawitzer",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "helioptile": {
+        "Name": "helioptile",
+        "Type1": "Electric",
+        "Type2": "Normal"
+    },
+    "heliolisk": {
+        "Name": "heliolisk",
+        "Type1": "Electric",
+        "Type2": "Normal"
+    },
+    "tyrunt": {
+        "Name": "tyrunt",
+        "Type1": "Rock",
+        "Type2": "Dragon"
+    },
+    "tyrantrum": {
+        "Name": "tyrantrum",
+        "Type1": "Rock",
+        "Type2": "Dragon"
+    },
+    "amaura": {
+        "Name": "amaura",
+        "Type1": "Rock",
+        "Type2": "Ice"
+    },
+    "aurorus": {
+        "Name": "aurorus",
+        "Type1": "Rock",
+        "Type2": "Ice"
+    },
+    "sylveon": {
+        "Name": "sylveon",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "hawlucha": {
+        "Name": "hawlucha",
+        "Type1": "Fighting",
+        "Type2": "Flying"
+    },
+    "dedenne": {
+        "Name": "dedenne",
+        "Type1": "Electric",
+        "Type2": "Fairy"
+    },
+    "carbink": {
+        "Name": "carbink",
+        "Type1": "Rock",
+        "Type2": "Fairy"
+    },
+    "goomy": {
+        "Name": "goomy",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "sliggoo": {
+        "Name": "sliggoo",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "goodra": {
+        "Name": "goodra",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "klefki": {
+        "Name": "klefki",
+        "Type1": "Steel",
+        "Type2": "Fairy"
+    },
+    "phantump": {
+        "Name": "phantump",
+        "Type1": "Ghost",
+        "Type2": "Grass"
+    },
+    "trevenant": {
+        "Name": "trevenant",
+        "Type1": "Ghost",
+        "Type2": "Grass"
+    },
+    "pumpkaboo-average": {
+        "Name": "pumpkaboo-average",
+        "Type1": "Ghost",
+        "Type2": "Grass"
+    },
+    "gourgeist-average": {
+        "Name": "gourgeist-average",
+        "Type1": "Ghost",
+        "Type2": "Grass"
+    },
+    "bergmite": {
+        "Name": "bergmite",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "avalugg": {
+        "Name": "avalugg",
+        "Type1": "Ice",
+        "Type2": ""
+    },
+    "noibat": {
+        "Name": "noibat",
+        "Type1": "Flying",
+        "Type2": "Dragon"
+    },
+    "noivern": {
+        "Name": "noivern",
+        "Type1": "Flying",
+        "Type2": "Dragon"
+    },
+    "xerneas": {
+        "Name": "xerneas",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "yveltal": {
+        "Name": "yveltal",
+        "Type1": "Dark",
+        "Type2": "Flying"
+    },
+    "zygarde-50": {
+        "Name": "zygarde-50",
+        "Type1": "Dragon",
+        "Type2": "Ground"
+    },
+    "diancie": {
+        "Name": "diancie",
+        "Type1": "Rock",
+        "Type2": "Fairy"
+    },
+    "hoopa-confined": {
+        "Name": "hoopa-confined",
+        "Type1": "Psychic",
+        "Type2": "Ghost"
+    },
+    "volcanion": {
+        "Name": "volcanion",
+        "Type1": "Fire",
+        "Type2": "Water"
+    },
+    "rowlet": {
+        "Name": "rowlet",
+        "Type1": "Grass",
+        "Type2": "Flying"
+    },
+    "dartrix": {
+        "Name": "dartrix",
+        "Type1": "Grass",
+        "Type2": "Flying"
+    },
+    "decidueye": {
+        "Name": "decidueye",
+        "Type1": "Grass",
+        "Type2": "Ghost"
+    },
+    "litten": {
+        "Name": "litten",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "torracat": {
+        "Name": "torracat",
+        "Type1": "Fire",
+        "Type2": ""
+    },
+    "incineroar": {
+        "Name": "incineroar",
+        "Type1": "Fire",
+        "Type2": "Dark"
+    },
+    "popplio": {
+        "Name": "popplio",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "brionne": {
+        "Name": "brionne",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "primarina": {
+        "Name": "primarina",
+        "Type1": "Water",
+        "Type2": "Fairy"
+    },
+    "pikipek": {
+        "Name": "pikipek",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "trumbeak": {
+        "Name": "trumbeak",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "toucannon": {
+        "Name": "toucannon",
+        "Type1": "Normal",
+        "Type2": "Flying"
+    },
+    "yungoos": {
+        "Name": "yungoos",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "gumshoos": {
+        "Name": "gumshoos",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "grubbin": {
+        "Name": "grubbin",
+        "Type1": "Bug",
+        "Type2": ""
+    },
+    "charjabug": {
+        "Name": "charjabug",
+        "Type1": "Bug",
+        "Type2": "Electric"
+    },
+    "vikavolt": {
+        "Name": "vikavolt",
+        "Type1": "Bug",
+        "Type2": "Electric"
+    },
+    "crabrawler": {
+        "Name": "crabrawler",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "crabominable": {
+        "Name": "crabominable",
+        "Type1": "Fighting",
+        "Type2": "Ice"
+    },
+    "oricorio-baile": {
+        "Name": "oricorio-baile",
+        "Type1": "Fire",
+        "Type2": "Flying"
+    },
+    "cutiefly": {
+        "Name": "cutiefly",
+        "Type1": "Bug",
+        "Type2": "Fairy"
+    },
+    "ribombee": {
+        "Name": "ribombee",
+        "Type1": "Bug",
+        "Type2": "Fairy"
+    },
+    "rockruff": {
+        "Name": "rockruff",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "lycanroc-midday": {
+        "Name": "lycanroc-midday",
+        "Type1": "Rock",
+        "Type2": ""
+    },
+    "wishiwashi-solo": {
+        "Name": "wishiwashi-solo",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "mareanie": {
+        "Name": "mareanie",
+        "Type1": "Poison",
+        "Type2": "Water"
+    },
+    "toxapex": {
+        "Name": "toxapex",
+        "Type1": "Poison",
+        "Type2": "Water"
+    },
+    "mudbray": {
+        "Name": "mudbray",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "mudsdale": {
+        "Name": "mudsdale",
+        "Type1": "Ground",
+        "Type2": ""
+    },
+    "dewpider": {
+        "Name": "dewpider",
+        "Type1": "Water",
+        "Type2": "Bug"
+    },
+    "araquanid": {
+        "Name": "araquanid",
+        "Type1": "Water",
+        "Type2": "Bug"
+    },
+    "fomantis": {
+        "Name": "fomantis",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "lurantis": {
+        "Name": "lurantis",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "morelull": {
+        "Name": "morelull",
+        "Type1": "Grass",
+        "Type2": "Fairy"
+    },
+    "shiinotic": {
+        "Name": "shiinotic",
+        "Type1": "Grass",
+        "Type2": "Fairy"
+    },
+    "salandit": {
+        "Name": "salandit",
+        "Type1": "Poison",
+        "Type2": "Fire"
+    },
+    "salazzle": {
+        "Name": "salazzle",
+        "Type1": "Poison",
+        "Type2": "Fire"
+    },
+    "stufful": {
+        "Name": "stufful",
+        "Type1": "Normal",
+        "Type2": "Fighting"
+    },
+    "bewear": {
+        "Name": "bewear",
+        "Type1": "Normal",
+        "Type2": "Fighting"
+    },
+    "bounsweet": {
+        "Name": "bounsweet",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "steenee": {
+        "Name": "steenee",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "tsareena": {
+        "Name": "tsareena",
+        "Type1": "Grass",
+        "Type2": ""
+    },
+    "comfey": {
+        "Name": "comfey",
+        "Type1": "Fairy",
+        "Type2": ""
+    },
+    "oranguru": {
+        "Name": "oranguru",
+        "Type1": "Normal",
+        "Type2": "Psychic"
+    },
+    "passimian": {
+        "Name": "passimian",
+        "Type1": "Fighting",
+        "Type2": ""
+    },
+    "wimpod": {
+        "Name": "wimpod",
+        "Type1": "Bug",
+        "Type2": "Water"
+    },
+    "golisopod": {
+        "Name": "golisopod",
+        "Type1": "Bug",
+        "Type2": "Water"
+    },
+    "sandygast": {
+        "Name": "sandygast",
+        "Type1": "Ghost",
+        "Type2": "Ground"
+    },
+    "palossand": {
+        "Name": "palossand",
+        "Type1": "Ghost",
+        "Type2": "Ground"
+    },
+    "pyukumuku": {
+        "Name": "pyukumuku",
+        "Type1": "Water",
+        "Type2": ""
+    },
+    "type-null": {
+        "Name": "type-null",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "silvally": {
+        "Name": "silvally",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "minior-meteor": {
+        "Name": "minior-meteor",
+        "Type1": "Rock",
+        "Type2": "Flying"
+    },
+    "komala": {
+        "Name": "komala",
+        "Type1": "Normal",
+        "Type2": ""
+    },
+    "turtonator": {
+        "Name": "turtonator",
+        "Type1": "Fire",
+        "Type2": "Dragon"
+    },
+    "togedemaru": {
+        "Name": "togedemaru",
+        "Type1": "Electric",
+        "Type2": "Steel"
+    },
+    "mimikyu": {
+        "Name": "mimikyu",
+        "Type1": "Ghost",
+        "Type2": "Fairy"
+    },
+    "bruxish": {
+        "Name": "bruxish",
+        "Type1": "Water",
+        "Type2": "Psychic"
+    },
+    "drampa": {
+        "Name": "drampa",
+        "Type1": "Normal",
+        "Type2": "Dragon"
+    },
+    "dhelmise": {
+        "Name": "dhelmise",
+        "Type1": "Ghost",
+        "Type2": "Grass"
+    },
+    "jangmo-o": {
+        "Name": "jangmo-o",
+        "Type1": "Dragon",
+        "Type2": ""
+    },
+    "hakamo-o": {
+        "Name": "hakamo-o",
+        "Type1": "Dragon",
+        "Type2": "Fighting"
+    },
+    "kommo-o": {
+        "Name": "kommo-o",
+        "Type1": "Dragon",
+        "Type2": "Fighting"
+    },
+    "tapu-koko": {
+        "Name": "tapu-koko",
+        "Type1": "Electric",
+        "Type2": "Fairy"
+    },
+    "tapu-lele": {
+        "Name": "tapu-lele",
+        "Type1": "Psychic",
+        "Type2": "Fairy"
+    },
+    "tapu-bulu": {
+        "Name": "tapu-bulu",
+        "Type1": "Grass",
+        "Type2": "Fairy"
+    },
+    "tapu-fini": {
+        "Name": "tapu-fini",
+        "Type1": "Water",
+        "Type2": "Fairy"
+    },
+    "cosmog": {
+        "Name": "cosmog",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "cosmoem": {
+        "Name": "cosmoem",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "solgaleo": {
+        "Name": "solgaleo",
+        "Type1": "Psychic",
+        "Type2": "Steel"
+    },
+    "lunala": {
+        "Name": "lunala",
+        "Type1": "Psychic",
+        "Type2": "Ghost"
+    },
+    "nihilego": {
+        "Name": "nihilego",
+        "Type1": "Rock",
+        "Type2": "Poison"
+    },
+    "buzzwole": {
+        "Name": "buzzwole",
+        "Type1": "Bug",
+        "Type2": "Fighting"
+    },
+    "pheromosa": {
+        "Name": "pheromosa",
+        "Type1": "Bug",
+        "Type2": "Fighting"
+    },
+    "xurkitree": {
+        "Name": "xurkitree",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "celesteela": {
+        "Name": "celesteela",
+        "Type1": "Steel",
+        "Type2": "Flying"
+    },
+    "kartana": {
+        "Name": "kartana",
+        "Type1": "Grass",
+        "Type2": "Steel"
+    },
+    "guzzlord": {
+        "Name": "guzzlord",
+        "Type1": "Dark",
+        "Type2": "Dragon"
+    },
+    "necrozma": {
+        "Name": "necrozma",
+        "Type1": "Psychic",
+        "Type2": ""
+    },
+    "magearna": {
+        "Name": "magearna",
+        "Type1": "Steel",
+        "Type2": "Fairy"
+    },
+    "marshadow": {
+        "Name": "marshadow",
+        "Type1": "Fighting",
+        "Type2": "Ghost"
+    },
+    "poipole": {
+        "Name": "poipole",
+        "Type1": "Poison",
+        "Type2": ""
+    },
+    "naganadel": {
+        "Name": "naganadel",
+        "Type1": "Poison",
+        "Type2": "Dragon"
+    },
+    "stakataka": {
+        "Name": "stakataka",
+        "Type1": "Rock",
+        "Type2": "Steel"
+    },
+    "blacephalon": {
+        "Name": "blacephalon",
+        "Type1": "Fire",
+        "Type2": "Ghost"
+    },
+    "zeraora": {
+        "Name": "zeraora",
+        "Type1": "Electric",
+        "Type2": ""
+    },
+    "meltan": {
+        "Name": "meltan",
+        "Type1": "Steel",
+        "Type2": ""
+    },
+    "melmetal": {
+        "Name": "melmetal",
+        "Type1": "Steel",
+        "Type2": ""
+    }
+}
