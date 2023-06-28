@@ -3,6 +3,7 @@
 
 ### Current Position:
 Completed JS search form to searach up to pokemon 36 (Clefable)
+
 Working on a Dynamic programming approach utilizing a JSON file of all pokemon to allow for more efficient code
 
 
