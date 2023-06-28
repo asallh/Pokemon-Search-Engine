@@ -1,17 +1,17 @@
 # Pokemon-Search-Engine
  A pokedex style search engine to access pokemon type and quickly find quick general innformation to aid in general gameplay for ease of type comparison, for weakness's and super effective's
 
- Current Position:
- Completed JS search form to searach up to pokemon 36 (Clefable)
- Working on a Dynamic programming approach utilizing a JSON file of all pokemon to allow for more efficient code
+### Current Position:
+Completed JS search form to searach up to pokemon 36 (Clefable)
+Working on a Dynamic programming approach utilizing a JSON file of all pokemon to allow for more efficient code
 
 
-DATA
+### DATA
 All Pokemon images and data for the pokemon aquired from Kaggle @Vishal Subbiah (https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types)
 
 Shout outs to you homie :) 
 
-MOTIVATION
+### MOTIVATION
 I am creating this porject as I have been playing Pokemon since I was  child and have played through Gen 1 to Gen 4 spending way too much time memorizing pokemon rather than my multiplications times tables at the time.
 
 As a grew older my obsessionn certainly reduced but noy my love for Pokemon, as I would continue to play each new game that comes out every year. With new generations comes new features, and with one of them down the line being the pokemon type, Fairy.
