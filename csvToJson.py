@@ -31,7 +31,6 @@ def rename_files(directory):
             os.rename(old_path, new_path)
             print(f"Renamed '{filename}' to '{new_filename}'")
 
-# Example usage: Rename files in the current directory
 rename_files("Pokemon Data/images")
 
 
