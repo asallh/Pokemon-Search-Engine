@@ -2,9 +2,14 @@
  A pokedex style search engine to access pokemon type and quickly find quick general innformation to aid in general gameplay for ease of type comparison, for weakness's and super effective's
 
 ### Current Position:
-Completed JS search form to searach up to pokemon 36 (Clefable)
+- Working on a Dynamic programming approach utilizing a JSON file of all pokemon to allow for more efficient code rather than manually inputting over 800 pokemon 👍 (COMPLETE)
 
-Working on a Dynamic programming approach utilizing a JSON file of all pokemon to allow for more efficient code
+- Need to address issue in the case that a pokemon only has a single type (Complete)
+
+
+- Need to fix: 
+
+1) Search no longer working with the implementation of the Dynamic Genration of the Pokemon
 
 
 ### DATA
