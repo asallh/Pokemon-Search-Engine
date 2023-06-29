@@ -6,10 +6,7 @@
 
 - Need to address issue in the case that a pokemon only has a single type (Complete)
 
-
-- Need to fix: 
-
-1) Search no longer working with the implementation of the Dynamic Genration of the Pokemon
+- Search no longer working with the implementation of the Dynamic Genration of the Pokemon
 
 
 ### DATA

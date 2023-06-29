@@ -5,21 +5,21 @@ csvFilePath = 'Pokemon Data/pokemon.csv'
 jsonFilePath ='pokemon_data.json'
 
 # read csv file and add to data
-# pokemon_data={}
-# with open(csvFilePath,'r') as csvFile:
-#     csvReader = csv.DictReader(csvFile)
-#     for row in csvReader:
-#         pokemon_name=row['Name']
-#         pokemon_data[pokemon_name]={
-#             'ID':row['ID'],
-#             'Name': row['Name'],
-#             'Type1':row['Type1'],
-#             'Type2':row['Type2']
-#         }
-# json_data= json.dumps(pokemon_data,indent=4)
+pokemon_data={}
+with open(csvFilePath,'r') as csvFile:
+    csvReader = csv.DictReader(csvFile)
+    for row in csvReader:
+        pokemon_name=row['Name']
+        pokemon_data[pokemon_name]={
+            'ID':row['ID'],
+            'Name': row['Name'],
+            'Type1':row['Type1'],
+            'Type2':row['Type2']
+        }
+json_data= json.dumps(pokemon_data,indent=4)
 
-# with open(jsonFilePath,'w') as jsonFile:
-#     json.dump(pokemon_data, jsonFile, indent=4)
+with open(jsonFilePath,'w') as jsonFile:
+    json.dump(pokemon_data, jsonFile, indent=4)
 
 
 def rename_files(directory):

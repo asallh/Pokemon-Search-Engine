@@ -1,7 +1,7 @@
 const search = () =>{
     const searchBox = document.getElementById("search-item").value.toUpperCase();
     const pokemonItems = document.getElementById("pokemon-list")
-    const pokemon = document.querySelectorAll(".Pokemon")
+    const pokemon = document.querySelectorAll(".pokemon")
     const pokemonName = pokemonItems.getElementsByTagName("h2")
 
     for(let i=0; i<pokemonName.length; i++){
