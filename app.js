@@ -27,11 +27,12 @@ function capitalizeFirstLetter(str) {
 
 
 function fetchPokemonData(){
-    //Forgot to save pokemon ID numbers in the JSON so going to add a counter to combat issue
     fetch('pokemon_data.json')
         .then(response => response.json())
         .then(data => {
             const pokemonList = document.getElementById('pokemon-list');
+            const modal = document.getElementById('modal');
+            const modalContent = document.getElementById('modal-content');
 
             for(const pokemonName in data){
                 const pokemon = data[pokemonName];
@@ -68,13 +69,42 @@ function fetchPokemonData(){
                     pokemonDetailsDiv.appendChild(type2Heading);
                 }
 
-               
-                
-
                 pokemonDiv.appendChild(pokemonImg);
                 pokemonDiv.appendChild(pokemonDetailsDiv);
 
+                pokemonDiv.addEventListener('click',function() {
+                    openModal(pokemon);
+                });
+
                 pokemonList.appendChild(pokemonDiv);
             }
-        })
+        });
 }
+
+function openModal(pokemon){
+    const modal = document.getElementById('modal');
+    const modalImg = document.getElementById('modal-img');
+    const modalName = document.getElementById('modal-name');
+    const modalType1 = document.getElementById('modal-type1');
+    const modalType2 = document.getElementById('modal-type2');
+
+    modalImg.src = `Pokemon Data/images/${pokemon.Name.toLowerCase()}.png`;
+    modalImg.alt='';
+    modalName.textContent=capitalizeFirstLetter(pokemon.Name);
+    modalType1.textContent=pokemon.Type1;
+    modalType2.textContent=pokemon.Type2 || 'N/A';
+
+    modal.style.display='block';
+}
+
+function closeModal(){
+    const modal = document.getElementById('modal');
+    modal.style.display='none';
+}
+
+window.addEventListener('click', function(event){
+    const modal = document.getElementById('modal');
+    if(event.target === modal){
+        modal.style.display ='none';
+    }
+});
