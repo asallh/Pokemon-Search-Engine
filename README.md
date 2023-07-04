@@ -4,7 +4,7 @@ https://asallh.github.io/The-Pokemon-Companion/
  A pokedex style search engine to access pokemon's type and quickly find general information to aid in type matchups in pokemon battles.
 
 ### Current Position:
-- Finalizing the logic behind the weaknenss and strength depicted on each of the Modal cards of each pokemon
+- Complete :D 
 
 
 ### DATA
