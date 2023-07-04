@@ -31,8 +31,6 @@ function fetchPokemonData(){
         .then(response => response.json())
         .then(data => {
             const pokemonList = document.getElementById('pokemon-list');
-            const modal = document.getElementById('modal');
-            const modalContent = document.getElementById('modal-content');
 
             for(const pokemonName in data){
                 const pokemon = data[pokemonName];
@@ -87,12 +85,36 @@ function openModal(pokemon){
     const modalName = document.getElementById('modal-name');
     const modalType1 = document.getElementById('modal-type1');
     const modalType2 = document.getElementById('modal-type2');
+    const modalWeakness = document.getElementById('weakness');
+    const modalStrength = document.getElementById('strength');
 
     modalImg.src = `Pokemon Data/images/${pokemon.Name.toLowerCase()}.png`;
     modalImg.alt='';
     modalName.textContent=capitalizeFirstLetter(pokemon.Name);
     modalType1.textContent=pokemon.Type1;
     modalType2.textContent=pokemon.Type2 || 'N/A';
+    modalWeakness.textContent='Not Very Effective Against:';
+    modalStrength.textContent='Super Effective Against:';
+
+    const modalWeaknessList = document.createElement('ul');
+    const modalStrengthList = document.createElement('ul');
+
+    for(const weakness in pokemon){
+        if(weakness.startsWith('Against') && pokemon[weakness]>1 || pokemon[weakness] === 0){
+            const weaknessItem = document.createElement('li');
+            weaknessItem.textContent=weakness.substring(7)+' x ' + pokemon[weakness];
+            modalWeaknessList.appendChild(weaknessItem);
+
+        } else if(weakness.startsWith('Against') && pokemon[weakness]<1 && pokemon[weakness] !== 0){
+            const weaknessItem = document.createElement('li');
+            weaknessItem.textContent=weakness.substring(7)+' x ' + pokemon[weakness];
+            modalStrengthList.appendChild(weaknessItem);
+        }
+    }
+    modal.contentEditable.innerHTML='';
+
+    modalWeakness.appendChild(modalWeaknessList)
+    modalStrength.appendChild(modalStrengthList);
 
     modal.style.display='block';
 }
