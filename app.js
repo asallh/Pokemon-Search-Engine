@@ -100,15 +100,27 @@ function openModal(pokemon){
     const modalStrengthList = document.createElement('ul');
 
     for(const weakness in pokemon){
-        if(weakness.startsWith('Against') && pokemon[weakness]>1 || pokemon[weakness] === 0){
+        if(weakness.startsWith('Against') && pokemon[weakness]>1){
             const weaknessItem = document.createElement('li');
             weaknessItem.textContent=weakness.substring(7)+' x ' + pokemon[weakness];
             modalWeaknessList.appendChild(weaknessItem);
-
-        } else if(weakness.startsWith('Against') && pokemon[weakness]<1 && pokemon[weakness] !== 0){
+        } else if(weakness.startsWith('Against') && pokemon[weakness]<1 && pokemon[weakness] > 0 ){
             const weaknessItem = document.createElement('li');
             weaknessItem.textContent=weakness.substring(7)+' x ' + pokemon[weakness];
             modalStrengthList.appendChild(weaknessItem);
+        } 
+        // Creating an immunity section on he modal
+        
+        if (weakness.startsWith('Against') && pokemon[weakness]===0){
+            const modalNoEffect = document.createElement('p');
+            const modalImmuneList = document.createElement('ul');
+
+            modalNoEffect.textContent='No Effect'
+            const weaknessItem = document.createElement('li');
+            weaknessItem.textContent=weakness.substring(7)+' x ' + pokemon[weakness];
+            modalImmuneList.appendChild(weaknessItem);
+
+
         }
     }
     modal.contentEditable.innerHTML='';

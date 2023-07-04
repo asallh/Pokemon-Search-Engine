@@ -671,9 +671,9 @@
         "AgainstSteel": "1",
         "AgainstFairy": "1"
     },
-    "nidoran-f": {
+    "nidoran ♀": {
         "ID": "29",
-        "Name": "nidoran-f",
+        "Name": "nidoran ♀",
         "Type1": "Poison",
         "Type2": "",
         "AgainstNormal": "1",
@@ -743,9 +743,9 @@
         "AgainstSteel": "1",
         "AgainstFairy": "0.5"
     },
-    "nidoran-m": {
+    "nidoran ♂": {
         "ID": "32",
-        "Name": "nidoran-m",
+        "Name": "nidoran ♂",
         "Type1": "Poison",
         "Type2": "",
         "AgainstNormal": "1",
