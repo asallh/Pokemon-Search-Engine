@@ -14,14 +14,32 @@ with open(csvFilePath,'r') as csvFile:
             'ID':row['ID'],
             'Name': row['Name'],
             'Type1':row['Type1'],
-            'Type2':row['Type2']
+            'Type2':row['Type2'],
+            'AgainstNormal':row['AgainstNormal'],
+            'AgainstFire':row['Against-Fire'],
+            'AgainstWater':row['Against-Water'],
+            'AgainstElectric':row['Against-Electric'],
+            'AgainstGrass':row['Against-Grass'],
+            'AgainstIce':row['Against-Ice'],
+            'AgainstFighting':row['Against-Fighting'],
+            'AgainstPoison':row['Against-Poison'],
+            'AgainstGround':row['Against-Ground'],
+            'AgainstFlying':row['Against-Flying'],
+            'AgainstPsychic':row['Against-Psychic'],
+            'AgainstBug':row['Against-Bug'],
+            'AgainstRock':row['Against-Rock'],
+            'AgainstGhost':row['Against-Ghost'],
+            'AgainstDragon':row['Against-Dragon'],
+            'AgainstDark':row['Against-Dark'],
+            'AgainstSteel':row['Against-Steel'],
+            'AgainstFairy':row['Against-Fairy']
         }
 json_data= json.dumps(pokemon_data,indent=4)
 
 with open(jsonFilePath,'w') as jsonFile:
     json.dump(pokemon_data, jsonFile, indent=4)
 
-
+# Encountered name some images with jpeg extension as opposed to png -> used to convery any jpegs to png format to allign with program usage
 def rename_files(directory):
     for filename in os.listdir(directory):
         if filename.lower().endswith(".jpg"):
