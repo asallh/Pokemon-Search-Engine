@@ -109,7 +109,7 @@ function openModal(pokemon){
             weaknessItem.textContent=weakness.substring(7)+' x ' + pokemon[weakness];
             modalStrengthList.appendChild(weaknessItem);
         } 
-        // Creating an immunity section on he modal
+        // Creating an immunity section on the modal
         
         if (weakness.startsWith('Against') && pokemon[weakness]===0){
             const modalNoEffect = document.createElement('p');
@@ -137,6 +137,13 @@ function closeModal(){
 }
 
 window.addEventListener('click', function(event){
+    const modal = document.getElementById('modal');
+    if(event.target === modal){
+        modal.style.display ='none';
+    }
+});
+
+window.addEventListener('touchstart', function(event){
     const modal = document.getElementById('modal');
     if(event.target === modal){
         modal.style.display ='none';
