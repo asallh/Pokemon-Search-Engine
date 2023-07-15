@@ -143,7 +143,7 @@ window.addEventListener('click', function(event){
     }
 });
 
-window.addEventListener('touchstart', function(event){
+window.addEventListener('touchend', function(event){
     const modal = document.getElementById('modal');
     if(event.target === modal){
         modal.style.display ='none';
